@@ -29,14 +29,17 @@ If you are running in Ubuntu, and did not installed the python yet, then please 
 ## User Manual
 
 Once you run the python code, The program will ask to type the file name to read like below.
--
-    ![user1](https://user-images.githubusercontent.com/77169787/158926878-4d269b60-84cf-4922-b92a-84aab1b89f6c.JPG)
+
+![user1](https://user-images.githubusercontent.com/77169787/158927748-6a8f8f3b-7bb5-465a-90d4-bc1c8d4ac4fb.JPG)
+
 
 Please put your filename.csv(with my project, it will be data.csv) like below. 
-- Then it will read the file and calculate and print the maximum weight from csv file.
-    ![user4](https://user-images.githubusercontent.com/77169787/158926876-99f9d0c9-59e9-4d78-99af-c7093de2bff8.JPG)
+Then it will read the file and calculate and print the maximum weight from csv file.
+
+![success](https://user-images.githubusercontent.com/77169787/158927712-a1711cd5-9b53-46e7-bd62-135fc7e5ee09.JPG)
 
 If you miss typed or your file could not find, the program will show error line below. 
-- Please check your file name and try to type the correct file name again. 
-    ![user2](https://user-images.githubusercontent.com/77169787/158926869-457f7bc7-2812-4dca-87c7-610d1094de7a.JPG)
+Please check your file name and try to type the correct file name again. 
+
+![error1](https://user-images.githubusercontent.com/77169787/158927727-262d763e-fe83-4ff7-b5e3-26bfc4a0b4ec.JPG)
 
